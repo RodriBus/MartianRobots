@@ -1,0 +1,14 @@
+<Project>
+  <PropertyGroup>
+    <IsPackable>false</IsPackable>
+    <Nullable>disable</Nullable>
+    <NullableReferenceTypes>false</NullableReferenceTypes>
+    <LangVersion>9.0</LangVersion>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <Authors>Diego Rodríguez</Authors>
+    <Copyright>Diego Rodríguez 2021</Copyright>
+  </PropertyGroup>
+</Project>
