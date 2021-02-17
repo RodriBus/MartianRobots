@@ -23,6 +23,5 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\Application\Application.csproj" />
-    <ProjectReference Include="..\..\src\Console\Console.csproj" />
   </ItemGroup>
 </Project>
